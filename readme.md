@@ -1,0 +1,1 @@
+This project is based on web scraping and web crawling. The data is being collected from various news websites and various graphs are plotted along with it. This project helps us to maintain a csv files for all the crimes which will help us to get crime data of the recent years.
